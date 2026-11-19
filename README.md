@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="1 SYNC" src="https://github.com/user-attachments/assets/9b0292fa-d717-42f7-acfd-a69eff700514" />
+<img width="1920" height="1080" alt="2 SYNC" src="https://github.com/user-attachments/assets/50977514-1eec-4ffb-8735-d37201f9c4c7" />
+<img width="1920" height="1080" alt="3 SYNC" src="https://github.com/user-attachments/assets/ece7edfb-0f76-4a44-93aa-58fa5cc162db" />
 SYNC - Retro Music Studio
 ---
 
