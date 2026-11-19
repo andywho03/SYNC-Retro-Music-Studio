@@ -1,4 +1,4 @@
-⚡ SYNC - Retro Music Studio
+SYNC - Retro Music Studio
 ---
 
 English
@@ -14,7 +14,7 @@ This project was born as a **UI/UX design and creative coding practice**. As a G
 * **Local Music Library:** Automatically scans downloaded MP3s, retrieves album covers, and displays file size and track duration.
 * **Integrated Media Player:** Full playback controls including play/pause, next/previous track, shuffle, repeat mode, and live progress tracking.
 
-### 🛠 Tech Stack & Tools Used
+###  Tech Stack & Tools Used
 * **UI/UX Design:** Figma
 * **Language:** Python 3
 * **GUI Framework:** CustomTkinter & Pillow (PIL)
